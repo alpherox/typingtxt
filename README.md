@@ -17,5 +17,5 @@ A fully-fledged **terminal-based typing game** written in Python — featuring r
 ## 🕹️ How to Play
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/typingtxt.git
+   git clone https://github.com/alpherox/typingtxt/
    cd typingtxt
