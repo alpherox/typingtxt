@@ -19,3 +19,4 @@ A fully-fledged **terminal-based typing game** written in Python — featuring r
    ```bash
    git clone https://github.com/alpherox/typingtxt/
    cd typingtxt
+   python3 typingtxt.py
